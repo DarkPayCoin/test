@@ -8,7 +8,7 @@
             "download": {
               "url": "https://github.com/DarkPayCoin/test/raw/master/linuxtest.tar.gz",
               "type": "tar",
-              "sha256": "0a4d34354b973fc628fa3a9f77086d05eeb5b66c",
+              "sha256": "3bbf5c3886c4464bd63c3d88475dc9d9332a45350f2c67dd9db75665dc3d0d0e",
               "bin": "darkpaycoind"
             },
             "bin": "darkpaycoind",
@@ -28,7 +28,7 @@
             "download": {
               "url": "https://github.com/DarkPayCoin/test/raw/master/linuxtest.tar.gz",
               "type": "tar",
-              "sha256": "9ae70b93ac0e1aa5097f883cf40e70f2ab4bf355d11093b365ab09fdc1787f7a",
+              "sha256": "3bbf5c3886c4464bd63c3d88475dc9d9332a45350f2c67dd9db75665dc3d0d0e",
               "bin": "darkpaycoind"
             },
             "bin": "darkpaycoind",
@@ -48,7 +48,7 @@
             "download": {
               "url": "https://github.com/DarkPayCoin/test/raw/master/linuxtest.tar.gz",
               "type": "tar",
-              "sha256": "c18aabe1fe758635e3ce4714d0a2d963a20aca12363261b0e68862312df52af0",
+              "sha256": "3bbf5c3886c4464bd63c3d88475dc9d9332a45350f2c67dd9db75665dc3d0d0e",
               "bin": "darkpaycoind"
             },
             "bin": "darkpaycoind",
