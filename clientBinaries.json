@@ -6,8 +6,8 @@
         "linux": {
           "arm": {
             "download": {
-              "url": "https://github.com/DarkPayCoin/test/raw/master/linuxtest.tar.gz",
-              "type": "tar.gz",
+              "url": "https://github.com/DarkPayCoin/test/raw/master/linuxtest.tar",
+              "type": "tar",
               "sha256": "3bbf5c3886c4464bd63c3d88475dc9d9332a45350f2c67dd9db75665dc3d0d0e",
               "bin": "darkpaycoind"
             },
@@ -26,7 +26,7 @@
           },
           "ia32": {
             "download": {
-              "url": "https://github.com/DarkPayCoin/test/raw/master/linuxtest.tar.gz",
+              "url": "https://github.com/DarkPayCoin/test/raw/master/linuxtest.tar",
               "type": "tar",
               "sha256": "3bbf5c3886c4464bd63c3d88475dc9d9332a45350f2c67dd9db75665dc3d0d0e",
               "bin": "darkpaycoind"
@@ -46,8 +46,8 @@
           },
           "x64": {
             "download": {
-              "url": "https://github.com/DarkPayCoin/test/raw/master/linuxtest.tar.gz",
-              "type": "tar.gz",
+              "url": "https://github.com/DarkPayCoin/test/raw/master/linuxtest.tar",
+              "type": "tar",
               "sha256": "3bbf5c3886c4464bd63c3d88475dc9d9332a45350f2c67dd9db75665dc3d0d0e",
               "bin": "darkpaycoind"
             },
@@ -68,8 +68,8 @@
         "mac": {
           "x64": {
             "download": {
-              "url": "https://github.com/DarkPayCoin/test/Darkpaycoin-0.1-osx64.tar.gz",
-              "type": "tar.gz",
+              "url": "https://github.com/DarkPayCoin/test/Darkpaycoin-0.1-osx64.tar",
+              "type": "tar",
               "sha256": "350f81ef35b34816bf932c367f83b5c41b2768eace2894e585490094b73d8561",
               "bin": "darkpaycoind"
             },
