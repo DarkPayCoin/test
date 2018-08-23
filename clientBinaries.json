@@ -1,0 +1,135 @@
+{
+  "clients": {
+    "darkpaycoind": {
+      "version": "0.1",
+      "platforms": {
+        "linux": {
+          "arm": {
+            "download": {
+              "url": "https://github.com/DarkPayCoin/test/linuxtest.tar.gz",
+              "type": "tar",
+              "sha256": "0a4d34354b973fc628fa3a9f77086d05eeb5b66c#diff-eebcf2f1188514ae4ab6d48fd15f1949",
+              "bin": "darkpaycoind"
+            },
+            "bin": "darkpaycoind",
+            "commands": {
+              "sanity": {
+                "args": [
+                  "-version"
+                ],
+                "output": [
+                  "Darkpaycoin Core Daemon",
+                  "0.1"
+                ]
+              }
+            }
+          },
+          "ia32": {
+            "download": {
+              "url": "https://github.com/DarkPayCoin/test/linuxtest.tar.gz",
+              "type": "tar",
+              "sha256": "9ae70b93ac0e1aa5097f883cf40e70f2ab4bf355d11093b365ab09fdc1787f7a",
+              "bin": "darkpaycoind"
+            },
+            "bin": "darkpaycoind",
+            "commands": {
+              "sanity": {
+                "args": [
+                  "-version"
+                ],
+                "output": [
+                  "Darkpaycoin Core Daemon",
+                  "0.1"
+                ]
+              }
+            }
+          },
+          "x64": {
+            "download": {
+              "url": "https://github.com/DarkPayCoin/test/linuxtest.tar.gz",
+              "type": "tar",
+              "sha256": "c18aabe1fe758635e3ce4714d0a2d963a20aca12363261b0e68862312df52af0",
+              "bin": "darkpaycoind"
+            },
+            "bin": "darkpaycoind",
+            "commands": {
+              "sanity": {
+                "args": [
+                  "-version"
+                ],
+                "output": [
+                  "Darkpaycoin Core Daemon",
+                  "0.1"
+                ]
+              }
+            }
+          }
+        },
+        "mac": {
+          "x64": {
+            "download": {
+              "url": "https://github.com/DarkPayCoin/test/Darkpaycoin-0.1-osx64.tar.gz",
+              "type": "tar",
+              "sha256": "350f81ef35b34816bf932c367f83b5c41b2768eace2894e585490094b73d8561",
+              "bin": "darkpaycoind"
+            },
+            "bin": "darkpaycoind",
+            "commands": {
+              "sanity": {
+                "args": [
+                  "-version"
+                ],
+                "output": [
+                  "Darkpaycoin Core Daemon",
+                  "0.1"
+                ]
+              }
+            }
+          }
+        },
+        "win": {
+          "ia32": {
+            "download": {
+              "url": "https://github.com/DarkPayCoin/test/Darkpaycoin-0.1-win32.zip",
+              "type": "zip",
+              "sha256": "f56b21c90c5c40ca038c3724049f97a6e3cf6dd9013beb09b784f8b8abd126e4",
+              "bin": "darkpaycoind.exe"
+            },
+            "bin": "darkpaycoind.exe",
+            "commands": {
+              "sanity": {
+                "args": [
+                  "-version"
+                ],
+                "output": [
+                  "Darkpaycoin Core Daemon",
+                  "0.1"
+                ]
+              }
+            }
+          },
+          "x64": {
+            "download": {
+              "url": "https://github.com/DarkPayCoin/test/Darkpaycoin-0.1-win64.zip",
+              "type": "zip",
+              "sha256": "47942021abaa82f21b924204aa67a974fca167fd01780395e8b7eb545cf544b1",
+              "bin": "darkpaycoind.exe"
+            },
+            "bin": "darkpaycoind.exe",
+            "commands": {
+              "sanity": {
+                "args": [
+                  "-version"
+                ],
+                "output": [
+                  "Darkpaycoin Core Daemon",
+                  "0.1"
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
